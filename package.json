@@ -5,6 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "animate-components": "^1.4.8",
+    "firebase": "^9.15.0",
     "git": "^0.1.5",
     "jquery": "^3.5.1",
     "particle-bg": "^0.3.2",

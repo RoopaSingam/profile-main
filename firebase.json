@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "roopa-singam-portfolio",
     "public": "build",
     "ignore": [
       "firebase.json",
